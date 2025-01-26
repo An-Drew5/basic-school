@@ -84,20 +84,19 @@ nav a:hover {
 }
 
 .page1 img {
-    padding-left: 9%;
-    padding-top: 10%;
-    padding-right: 1%;
-    width: 100%;
+    margin: 5% 0 0 3%;
+    padding-left: auto;
+    /* padding-top: 10%; */
+    /* padding-right: 1%; */
+    width: 95%;
     height: 80%;
     border-radius: 4%;
     object-fit: cover;
     transition: 0.5s ease;
-
-
 }
 
 .page1 img:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
 
 }
 
